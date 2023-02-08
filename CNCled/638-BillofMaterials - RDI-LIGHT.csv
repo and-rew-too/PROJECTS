@@ -22,7 +22,7 @@ solder - connect to led strip,complete,,",,,",,
 LARGER PARTS...,,,,,
 1/4 - 20 - How long?,x1,3.00,,,
 1/4 - 20 nutss,x4,1.00,,,
-(OPTIONAL 12V kapton heater),x1,??,,(smd option) https://www.ebay.com/itm/363559575048?hash=item54a5d6de08:g:fxcAAOSwRpphQ-9V&_trksid=p5731.m3795,https://www.mcmaster.com/threaded-rods/18-8-stainless-steel-threaded-rods-10/
+(OPTIONAL 12V kapton heater),x1,??,,,https://www.mcmaster.com/threaded-rods/18-8-stainless-steel-threaded-rods-10/
 (optional 12V fan),x0,??,,,
 (optional 3 amp fuse),x0,??,,,
 (optional adjustable fuse ),x1,??,,,
