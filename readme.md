@@ -1,6 +1,10 @@
+Common BOM prices 
 ---
 permalink: /making-readmes-readable/
-title: Making READMEs readable
+Arduino Uno: 7.99 
+ESP32... : 0.99
+SqFt plywood:3.99
+Ft 2x4 wood: 2.19
 ---
 
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
@@ -14,6 +18,15 @@ Here is the IC being used, and a link to relevant information on how to care for
 Important: Must use aluminum channel for proper heatsinking. 
 
 ## BOM
+Spreadsheet must be uploaded with .csv format, using top column for headers and have at a minimum
+* **Part
+* **Dim/Package
+* **Unit Cost
+* **Units
+* **Cost
+* **Supplier
+* **Link
+
 
 ## A description of what the project is for.
 
