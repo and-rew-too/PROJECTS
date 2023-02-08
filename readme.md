@@ -30,5 +30,10 @@ This should answer a short list of basic questions:
 **Example:** The [README for 18F’s Midas project](https://github.com/18f/midas) starts out by answering the questions:
 ## Instructions for how to develop, use, and test the code.
 
+```shell
+docker build -f ./Dockerfile -t 18fgsa/analytics.usa.gov:<version> .
+docker build -f ./Dockerfile.production -t 18fgsa/analytics.usa.gov:<version>-production .
+```
+
 This should answer the question: **How do I get this project to work on my machine? How can I develop for this project?** We find it works really well if you follow a two-step approach to develop the content for this section: first, help someone setup the site who has never done it before, and then write down the exact instructions. Next, ask someone to follow those instructions and see if you’ve missed anything.
 **Example:** The README for analytics.usa.gov contains detailed instructions for [developing the site](https://github.com/18f/analytics.usa.gov#setup) and [deploying the site](https://github.com/18f/analytics.usa.gov#deploying-to-staging-18f-specific).  
