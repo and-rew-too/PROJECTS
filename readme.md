@@ -2,9 +2,10 @@
 | Common BOM prices | Price |
 | --- | --- |
 | Arduino Uno: | 7.99 | 
-| ESP32: | 0.99 |
-| SqFt plywood: | 3.99 |
-| Ft 2x4:| 2.19 |
+| ESP32 DevKitv1 : | 12.99 |
+| SqFt plywood: | 3.50 |
+| Ft 2x4:| 1.50 |
+| Ft 8020:| 3.00 |
 
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code. We recommend the following sections.
 
