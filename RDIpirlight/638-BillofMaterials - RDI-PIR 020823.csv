@@ -1,7 +1,7 @@
 ,ITEM,Dim,UNIT PRICE,UNITS,COST,SUPPLIER,LINK
 ,N-type MOSFET IRLB8721PBF,TO-220AB,1.11,1,1.11,digikey,https://www.digikey.com/en/products/detail/infineon-technologies/irlb8721pbf/2127670
-,PIR Sensor - HC-SR501 ,25mm x 35mm,1.976,1,1.976,ebay,https://www.ebay.com/itm/332868935834
-,9V Battery Duracell,???,4,1,4,amazon,n/a
+,PIR Sensor - HC-SR501 ,25mm x 35mm,1.976,1,1.98,ebay,https://www.ebay.com/itm/332868935834
+,9V Battery Duracell,???,4.00,1,4.00,amazon,n/a
 ,3M Command Hook - 5 lb,???,1.46,1,1.46,amazon,n/a
 ,Spare - Garden Light LED ,???,0,1,0,ebay,n/a
 ,2.54 Pitch Perfboard - Bakelite,Cut to.. ...,0,1,0,ebay,n/a
