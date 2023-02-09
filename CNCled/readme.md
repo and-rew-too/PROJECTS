@@ -3,6 +3,7 @@ A group of LEDs designed to be safe (current limited and overtemp protected), hi
 <br> Every folder within this repo will also contain a README, which is intended to explain, at first glance, what a project does and how to install or test the code. If applicable the folders will have these following sections. 
 [LED Sizing](https://www.ledgrowlightsdepot.com/blogs/blog/16326275-how-many-led-watts-are-required-per-square-foot-of-grow-space)
 <br> [LED Sizing 2](https://www.reddit.com/r/gardening/comments/le3iym/recommended_grow_lights_for_starting_seeds/)
+<br> [LED Sizing 3](https://www.reddit.com/r/homeautomation/comments/g6usb4/adding_led_strips_to_room_unsure_about_fuses/fodzepi/)
 <br> [Spotting overilluminated plants from LEDs](https://www.ilovegrowingmarijuana.com/growing/light-burn-on-marijuana-plants)
 
 ## Introduction and Relevant Links
@@ -25,4 +26,4 @@ KiCad file name is 010623-efuseTCKE812NL
 Odd switching behavior when intially plugging in where efuse falsely trips, look into adding a capacitor. 
 </br> Odd creepage behavior exhibited by the epoxy setting the 2.1mm barrel jack to the wood, explore alternatives. 
 </br> Sideways insertion of DC barrel to wood not ideal, could shift the DC barrel position to the left handed side.
-</br> Insertion of DC barrel to each individual quadrant is redundant, would be better to find a way to series/parallel connect between each section. 
+</br> Insertion of DC barrel to each individual quadrant is redundant, would be better to find a way to series/parallel connect between each section. --> Current Amperage draw of 100 leds is only 0.7A so 300 is 2.1A, can have a DC barrel splitter like this and split to all four at once. [One to Four way Splitter](https://www.amazon.com/Splitter-Adapter-Cameras-Monitors-2PCS-Black/dp/B09W1C5JN1/) 
