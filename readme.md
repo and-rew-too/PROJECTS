@@ -5,7 +5,7 @@
 | ESP32 DevKitv1 : | 12.99 |
 | SqFt plywood: | 3.50 |
 | Ft 2x4:| 1.50 |
-| Ft 8020:| 3.00 |
+| Ft 8020:| 6.00 |
 
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code. We recommend the following sections.
 
@@ -15,7 +15,7 @@ Important: Must use aluminum channel for proper heatsinking.
 
 
 ## BOM
-Spreadsheet must be uploaded with .csv format, using top column for headers and have at a minimum
+Spreadsheet must be uploaded with .csv format, using top column for headers and must have at a minimum these columns
 * **Part
 * **Dim/Package
 * **Unit Cost
@@ -26,12 +26,12 @@ Spreadsheet must be uploaded with .csv format, using top column for headers and 
 (No need to include pricing for common items sold >100 packs like resistors, screws, etc)
 
 ## CAD Files
-Include Within project folders' readme if relevant
+Include within project folders' readme if relevant
 Include link to public onshape editor in readme
 Include STL files if relevant, or share jpg of TD / Assembly
 
 ## Gerber (PCB) Files
-Include Within project folders' readme if relevant
+Include within project folders' readme if relevant
 Include the full file name path to KiCad file n readme
 
 ## Descriptions to add Below
