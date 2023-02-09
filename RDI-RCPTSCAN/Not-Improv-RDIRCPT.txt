@@ -1,0 +1,9 @@
+https://www.gsampallo.com/2019/10/13/esp32-cam-subir-fotos-a-google-drive/
+https://github.com/gsampallo/esp32cam-gdrive
+
+Need to include: 1 , already completed
+
+Need to include: 3 additional files within an arduino folder
+the INO script
+the CCP base 64 converter
+the H base 64 converter
