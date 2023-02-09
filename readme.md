@@ -7,11 +7,11 @@
 | Ft 2x4:| 1.50 |
 | Ft 8020:| 6.00 |
 
-Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code. We recommend the following sections.
+Every folder within this repo will also contain a README, which is intended to explain, at first glance, what a project does and how to install or test the code. If applicable the folders will have these following sections. 
 
 ## Introduction and Relevant Links
 Here is the IC being used, and a link to relevant information on how to care for indoor plants and measurements of 
-Important: Must use aluminum channel for proper heatsinking. 
+<br> Important: Must use aluminum channel for proper heatsinking. 
 
 
 ## BOM
@@ -27,8 +27,8 @@ Spreadsheet must be uploaded with .csv format, using top column for headers and 
 
 ## CAD Files
 Include within project folders' readme if relevant
-Include link to public onshape editor in readme
-Include STL files if relevant, or share jpg of TD / Assembly
+<br> Include link to public onshape editor in readme
+<br> Include STL files if relevant, or share jpg of TD / Assembly
 
 ## Gerber (PCB) Files
 Include within project folders' readme if relevant
