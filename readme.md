@@ -1,5 +1,6 @@
 
 | Common BOM prices | Price |
+| --- | --- |
 | Arduino Uno: | 7.99 | 
 | ESP32: | 0.99 |
 | SqFt plywood: | 3.99 |
