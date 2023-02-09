@@ -1,10 +1,9 @@
-Common BOM prices 
----
+
+|Common BOM prices | Price|
 |Arduino Uno:| 7.99| 
 |ESP32:| 0.99|
 |SqFt plywood:|3.99|
 |Ft 2x4:| 2.19|
----
 
 Every repo contains a README, which is a document that is intended to explain, at first glance, what a project does and how to install or test the code.
 
