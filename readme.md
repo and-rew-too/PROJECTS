@@ -24,21 +24,24 @@ Spreadsheet must be uploaded with .csv format, using top column for headers and 
 * **Link
 (No need to include pricing for common items sold >100 packs like resistors, screws, etc)
 
+## CAD Files
+Include Within project folders' readme if relevant
+Include link to public onshape editor in readme
+Include STL files if relevant, or share jpg of TD / Assembly
+
+## Gerber (PCB) Files
+Include Within project folders' readme if relevant
+Include the full file name path to KiCad file n readme
 
 ## Descriptions to add Below
 * **What is the goal of this project?**  
 * **What are the relevant files needed to recreate all items from scratch**
-* ** Brainstorming photographs and sketches
-* ** A minimum BOM and cost, kicad file, etc
 * ** Attached any relevant code related to functioning of materials
 
 ## Results and Improvements
-
-
+## Examples Below
 **Example:** The [README for 18F’s Midas project](https://github.com/18f/midas) starts out by answering the questions:
-## Instructions for how to develop, use, and test the code.
-
-**Example: Code below** 
+**Example: Inline Code** 
 ```shell
 docker build -f ./Dockerfile -t 18fgsa/analytics.usa.gov:<version> .
 docker build -f ./Dockerfile.production -t 18fgsa/analytics.usa.gov:<version>-production .
