@@ -28,11 +28,11 @@ Spreadsheet must be uploaded with .csv format, using top column for headers and 
 ## CAD Files
 Include within project folders' readme if relevant
 <br> Include link to public onshape editor in readme
-<br> Include STL files if relevant, or share jpg of TD / Assembly
+<br> Include STL files if relevant, or alternatively share a jpeg of TD / Assembly
 
 ## Gerber (PCB) Files
 Include within project folders' readme if relevant
-Include the full file name path to KiCad file n readme
+<br> Include the full file path to KiCad file for schematics
 
 ## Descriptions to add Below
 * **What is the goal of this project?**  
@@ -40,9 +40,11 @@ Include the full file name path to KiCad file n readme
 * ** Attached any relevant code related to functioning of materials
 
 ## Results and Improvements
+Include a txt file, beginning with not-immprov and then the project name. 
+
 ## Examples Below
 **Example:** The [README for 18F’s Midas project](https://github.com/18f/midas) starts out by answering the questions:
-**Example: Inline Code** 
+<br> **Example: Inline Code** 
 ```shell
 docker build -f ./Dockerfile -t 18fgsa/analytics.usa.gov:<version> .
 docker build -f ./Dockerfile.production -t 18fgsa/analytics.usa.gov:<version>-production .
