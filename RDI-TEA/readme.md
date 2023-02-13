@@ -18,7 +18,7 @@ Onshape link in progress
 ## Gerber (PCB) Files
 KiCad file name is 021223-TEAVL53L0X-test
 </br> To be completed, Still need to wire up final 5V voltage pins out to the motors
-![Screenshot](021223-TEAVL53L0X-testV1.pdf)
+![Screenshot](021223-TEAVL53L0X-testV1.png)
 
 ## Descriptions??
 
