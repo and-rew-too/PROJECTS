@@ -1,4 +1,7 @@
 Default Settings
+<br> current draws?
+<br> Voltage - minimum 12V, and up to 30V
+<br> Voltage for microcontroller - 5V dc power source..
 
 COM PORT = 5, BaudRate = 9600
 $0=250.000 (x, step/mm)
