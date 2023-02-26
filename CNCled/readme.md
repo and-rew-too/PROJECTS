@@ -23,27 +23,8 @@ Onshape link not relevant
 KiCad file name is 010623-efuseTCKE812NL
 <br> Include the full file path to KiCad file for schematics
 
-## ESP32CAM UPLOAD INSTRUCTIONS
+## DETAILS?
 
-Sample code below
-
-Sample code for wifi connectivity below
-```shell
-// ledPin refers to ESP32-CAM GPIO 4 (flashlight)
-const int ledPin = 4;
-
-void setup() {
-  // initialize digital pin ledPin as an output
-  pinMode(ledPin, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(ledPin, HIGH);
-  delay(2000);
-  digitalWrite(ledPin, LOW);
-  delay(2000);
-}
-```
 
 ## Results and Improvements
 Odd switching behavior when intially plugging in where efuse falsely trips, look into adding a capacitor. 
