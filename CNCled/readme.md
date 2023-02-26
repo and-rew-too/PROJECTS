@@ -23,7 +23,15 @@ Onshape link not relevant
 KiCad file name is 010623-efuseTCKE812NL
 <br> Include the full file path to KiCad file for schematics
 
-## Descriptions??
+## ESP32CAM UPLOAD INSTRUCTIONS
+
+Sample code below
+
+Sample code for wifi connectivity below
+```shell
+docker build -f ./Dockerfile -t 18fgsa/analytics.usa.gov:<version> .
+docker build -f ./Dockerfile.production -t 18fgsa/analytics.usa.gov:<version>-production .
+```
 
 ## Results and Improvements
 Odd switching behavior when intially plugging in where efuse falsely trips, look into adding a capacitor. 
