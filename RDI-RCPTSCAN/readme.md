@@ -3,6 +3,8 @@ A ESP module, to test out ESP32 software and wifi connectivity.
 <br> Need to ensure ESP32 is running on 5.0V? and ensure google drive connectivity is setup. 
 <br> [project inspiration](https://github.com/gsampallo/esp32cam-gdrive)
 
+
+<br> step by step for the esp32 cam .ino uploading [link](https://www.youtube.com/watch?v=7-3piBHV1W0)
 <br> [create a shareable link](https://developers.google.com/apps-script/guides/web)
 <br> [shared link](https://script.google.com/macros/s/AKfycbydwTywCCrCOBziBzUhuuI8i2scXxNOAhV3JpvEg9_Cy3vjeMg-clcN6mPMJNNyn3ErFw/exec)
 
