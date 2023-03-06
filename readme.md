@@ -9,6 +9,9 @@
 
 Every folder within this repo will also contain a README, which is intended to explain, at first glance, what a project does and how to install or test the code. If applicable the folders will have these following sections. 
 
+Ensure that each important project will have a sublink - in the github folders, and can scan immediately from an iphone or wifi connected device.
+Use a qr code, and use a qr code converter [qr generator](https://www.qr-code-generator.com/)
+
 ## Introduction and Relevant Links
 Here is the IC being used, and a link to relevant information on how to care for indoor plants and measurements of 
 <br> Important: Must use aluminum channel for proper heatsinking. 
