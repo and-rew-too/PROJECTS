@@ -13,14 +13,17 @@ Small Footprint and quiet 24V DC motor.
 See bom above, still incomplete
 
 ## CAD Files
-Onshape link not relevant
 Onshape Assembly
 <br> [Work In Progess V1](https://cad.onshape.com/documents/b4df0345f29c621bf9c699d0/w/c2fcf2e91f0319f6a3eb7901/e/d1c4165fb03bad7a1f81c1a1)
 
 ## Gerber (PCB) Files
-KiCad file name is 010623-efuseTCKE812NL
-<br> Include the full file path to KiCad file for schematics
+KiCad file name not applicable
 
 ## Descriptions??
 
 ## Results and Improvements
+Improved stability by embedding the 8mm shafts in wood
+
+Improved dust collection by opening up bottom for a dust collection hose vacuum
+
+Improved flatness on cutting edge of 4" circle sandpaper lifting, potentially using hook and loop or different brand of adhesive.
