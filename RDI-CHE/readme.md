@@ -15,7 +15,7 @@ See bom above, still incomplete
 
 ## CAD Files
 Onshape link in progress
-</br>[Link](https://cad.onshape.com/documents/d7c0127cd1f9b5a49c602438/w/0e5f7f6f8419f1c931389f58/e/2cf31d5998ba9b9292f913a7)
+</br>[Link](https://cad.onshape.com/documents/13fd21aea535904a6b5f1962/w/cf074e89e8c63fae2da52691/e/0422817288bd131f1018f0b8)
 
 ## Gerber (PCB) Files
 KiCad file name is to be completed
