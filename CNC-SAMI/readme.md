@@ -20,6 +20,8 @@ $1=200.000 (y, step/mm)
 $2=200.000 (z, step/mm)
 $8=8.000 (acceleration, mm/sec^2)
 
+<br> G90 sets to absolute coordinates. G91 sets it as relative coordinates
+
 <br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
 
 <br> [stepper motor datasheet](https://www.omc-stepperonline.com/3pcs-of-nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-3-17hs19-2004s1)
