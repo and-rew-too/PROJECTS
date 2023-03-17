@@ -12,6 +12,7 @@ $13 units (set to mm)
 $130 none
 $131 none
 $132 none
+$6 = 192
 
 
 02-23-2023 Initialized Settings
@@ -19,6 +20,10 @@ $0=200.000 (x, step/mm)
 $1=200.000 (y, step/mm)
 $2=200.000 (z, step/mm)
 $8=8.000 (acceleration, mm/sec^2)
+(NOW, only want z inverted so 
+($6 = 128)
+<br> [inversion in grbl](https://forum.makerforums.info/t/how-do-i-invert-the-y-and-z-axis-of-my-grbl-cnc-arduino-uno/80114/3)
+
 
 <br> G90 sets to absolute coordinates. G91 sets it as relative coordinates
 G92 Z0 or 
