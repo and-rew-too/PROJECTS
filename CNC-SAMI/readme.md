@@ -24,6 +24,11 @@ $8=8.000 (acceleration, mm/sec^2)
 
 <br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
 
+<br> LASER CUT WORKFLOW IS: ... to be determined
+
+<br> 2D MILLING WORKFLOW IS: using onshape to create dxf, expoting dxf to carbide create, export toolpath into c2d, convert c2d into gcode
+<br> [gcode conversion](https://my.carbide3d.com/extractgcode/)
+
 <br> [stepper motor datasheet](https://www.omc-stepperonline.com/3pcs-of-nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-3-17hs19-2004s1)
 <br> [router datasheet](https://shop.carbide3d.com/products/carbide-compact-router)
 <br> [tramming basics](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/squaring)
