@@ -21,6 +21,8 @@ $2=200.000 (z, step/mm)
 $8=8.000 (acceleration, mm/sec^2)
 
 <br> G90 sets to absolute coordinates. G91 sets it as relative coordinates
+G92 Z0 or 
+G92 X0 Y0 to zero out
 
 <br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
 
