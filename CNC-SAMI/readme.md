@@ -28,15 +28,14 @@ $8=8.000 (acceleration, mm/sec^2)
 <br> [inversion in grbl](https://forum.makerforums.info/t/how-do-i-invert-the-y-and-z-axis-of-my-grbl-cnc-arduino-uno/80114/3)
 
 
-<br> G90 sets to absolute coordinates. G91 sets it as relative coordinates
-G92 Z0 or 
-G92 X0 Y0 to zero out
+<br> G90 sets to absolute coordinates. G91 sets it as relative coordinates 
+G92 X0 Y0 to zero out, but has not worked
 
 <br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
 
-<br> LASER CUT WORKFLOW IS: ... to be determined
+<br> LASER CUT WORKFLOW IS: using paint or other software to create a 
 
-<br> 2D MILLING WORKFLOW IS: using onshape to create dxf, expoting dxf to carbide create, export toolpath into c2d, convert c2d into gcode
+<br> 2D MILLING WORKFLOW IS: uploadng GRBLtoArduino.ino to microcontroller, using onshape to create dxf, exporting dxf to carbide create, export toolpath into c2d, convert c2d into gcode
 <br> [gcode conversion](https://my.carbide3d.com/extractgcode/)
 
 <br> [stepper motor datasheet](https://www.omc-stepperonline.com/3pcs-of-nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-3-17hs19-2004s1)
