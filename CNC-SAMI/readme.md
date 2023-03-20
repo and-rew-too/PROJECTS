@@ -1,3 +1,6 @@
+GRBL UPLOADING into
+<br> [uploading sketch to arduino uno](https://www.youtube.com/watch?v=zUb8tiFCwmk&t=5s)
+
 Default Settings
 <br> current draws?
 <br> Voltage - minimum 12V, and up to 30V
