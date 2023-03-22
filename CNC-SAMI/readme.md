@@ -1,3 +1,31 @@
+## Introduction and Relevant Links
+~a 350 dollar compact CNC machine dimensions of 13"x16"x20", that will be able to carve out patterns in soft metals, woods, and plastics.
+
+Most pertinent items to be purchased are include below
+<br>[1/4 0.40HP 63mm Router](https://www.ebay.com/itm/385440750929)
+<br>[CNC Shield with A4988 Drivers](https://www.ebay.com/itm/292161403451)
+Router Details
+	
+Corded Electric	
+Unloaded Speed:	30000RPM // Voltage:110V // Model:ML79 // Power:300W //Material: ABS Plastic+Metal // Color: Red//Power cord length:1.5m
+Item was 385440750929 //shengyuwangluo01 
+
+## BOM
+See bom above, still incomplete
+
+## CAD Files
+Onshape link still in progress
+
+## Gerber (PCB) Files
+KiCad files not relevant
+
+## Operating Procedures
+
+
+
+
+
+
 GRBL UPLOADING into
 <br> [uploading sketch to arduino uno](https://www.youtube.com/watch?v=zUb8tiFCwmk&t=5s)
 
@@ -42,6 +70,19 @@ G92 X0 Y0 to zero out, but has not worked
 
 <br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
 
+
+
+
+
+
+
+## Results and Improvements
+Improved 
+Improved? voltage indicators when running? https://www.instructables.com/LED-voltage-range-indicator/
+Variable speed for rpm control?
+Dust Boot?
+
+## Workflow
 <br> LASER CUT WORKFLOW IS: using paint or other software to create a 
 
 <br> 2D MILLING WORKFLOW IS: uploadng GRBLtoArduino.ino to microcontroller, using onshape to create dxf, exporting dxf to carbide create, export toolpath into c2d, convert c2d into gcode
@@ -51,3 +92,7 @@ G92 X0 Y0 to zero out, but has not worked
 <br> [router datasheet](https://shop.carbide3d.com/products/carbide-compact-router)
 <br> [tramming basics](https://shapeokoenthusiasts.gitbook.io/shapeoko-cnc-a-to-z/squaring)
 <br> [cnc shield basics](https://www.youtube.com/watch?v=zUb8tiFCwmk) 
+
+<br> [laser safety description class 4](https://www.amazon.com/SainSmart-Genmitsu-Machine-3018-MX3-3018-PROVer/dp/B07VHJ7JNW/)
+<br> [laser safety example](https://www.lasersafetyfacts.com/4/)
+<br> [laser usage example](https://www.youtube.com/watch?v=ZPyIuLlcuIE)
