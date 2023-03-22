@@ -1,7 +1,8 @@
 Lightweight and compact , easily extendible, with foot pedal integrated LED and digital readout for easy and accurate hole drilling in wood, plastic, soft metals... plan on adding a clamping system as well. 
 
 ## Introduction and Relevant Links
-Power should be twisted cables... 
+Power should have twisted cables. Power needed is a 9.6V 3A Supply.
+Other Power, for led, LDO, and potential blower all supplied with a LiPolymer 9V battery. 
 
 
 ## BOM
