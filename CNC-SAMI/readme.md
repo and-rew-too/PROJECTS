@@ -4,10 +4,8 @@
 Most pertinent items to be purchased are include below
 <br>[1/4 0.40HP 63mm Router](https://www.ebay.com/itm/385440750929)
 <br>[CNC Shield with A4988 Drivers](https://www.ebay.com/itm/292161403451)
-Router Details
-	
-Corded Electric	
-Unloaded Speed:	30000RPM // Voltage:110V // Model:ML79 // Power:300W //Material: ABS Plastic+Metal // Color: Red//Power cord length:1.5m
+
+Router Details Unloaded Speed:	30000RPM // Voltage:110V // Model:ML79 // Power:300W //Material: ABS Plastic+Metal // Color: Red//Power cord length:1.5m
 Item was 385440750929 //shengyuwangluo01 
 
 ## BOM
@@ -20,16 +18,10 @@ Onshape link still in progress
 KiCad files not relevant
 
 ## Operating Procedures
-
-
-
-
-
-
-GRBL UPLOADING into
+GRBL UPLOADING first time to microcontroller
 <br> [uploading sketch to arduino uno](https://www.youtube.com/watch?v=zUb8tiFCwmk&t=5s)
 
-Default Settings
+GRBL Default Settings
 <br> current draws?
 <br> Voltage - minimum 12V, and up to 30V
 <br> Voltage for microcontroller - 5V dc power source..
@@ -41,9 +33,12 @@ Default Settings
 <br> [speed/feed calculator](https://gdptooling.com/chipload-calc/)
 
 
+GRBL/GCODE SETTINGS 
+<br> HAD to solder jumpers beneath the A4988 boards on the cnc sheld, and changed microstepping from full to eigth step, yet for some reason it only reads it as a half step? Still this fixed the noise issue on the stepper motor at lower step/mm s
+G90 sets to absolute coordinates. G91 sets it as relative coordinates 
+G92 X0 Y0 to zero out, but has not worked
 
-
-COM PORT = 5, BaudRate = 9600
+<br> COM PORT = 5, BaudRate = 9600
 $0=250.000 (x, step/mm)
 $1=250.000 (y, step/mm)
 $2=250.000 (z, step/mm)
@@ -60,24 +55,13 @@ $0=200.000 (x, step/mm)
 $1=200.000 (y, step/mm)
 $2=200.000 (z, step/mm)
 $8=8.000 (acceleration, mm/sec^2)
-(NOW, only want z inverted so 
-($6 = 128)
+(Only want z inverted so set $6 = 128)
 <br> [inversion in grbl](https://forum.makerforums.info/t/how-do-i-invert-the-y-and-z-axis-of-my-grbl-cnc-arduino-uno/80114/3)
-
-
-<br> G90 sets to absolute coordinates. G91 sets it as relative coordinates 
-G92 X0 Y0 to zero out, but has not worked
-
-<br>HAD SET THE 0 x step/mm to an eigth step, yet for some reason it only reads it as a half step? anyways, that fixed the noise issue on the stepper motor at lower step/mm settings. 
-
-
-
 
 
 
 
 ## Results and Improvements
-Improved 
 Improved? voltage indicators when running? https://www.instructables.com/LED-voltage-range-indicator/
 Variable speed for rpm control?
 Dust Boot?
