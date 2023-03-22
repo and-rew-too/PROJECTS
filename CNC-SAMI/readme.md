@@ -8,6 +8,8 @@ Most pertinent items to be purchased are include below
 Router Details Unloaded Speed:	30000RPM // Voltage:110V // Model:ML79 // Power:300W //Material: ABS Plastic+Metal // Color: Red//Power cord length:1.5m
 Item was 385440750929 //shengyuwangluo01 
 
+Voltage needed is one 110VAC Outlet, and one 12V plug, (12V splits to fan, laser, cnc shield)
+
 ## BOM
 See bom above, still incomplete
 
@@ -26,7 +28,7 @@ GRBL Default Settings
 <br> Voltage - minimum 12V, and up to 30V
 <br> Voltage for microcontroller - 5V dc power source..
 
-<br> speeds and fees
+<br> Speeds and Feeds
 <br> standard two-flute, cutting way too slow and small chip rate
 <br> doing 2x the diameter of tool depth of cut
 <br> 508 mm/min or 200 inch / min
