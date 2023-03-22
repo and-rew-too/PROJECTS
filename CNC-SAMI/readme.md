@@ -6,6 +6,15 @@ Default Settings
 <br> Voltage - minimum 12V, and up to 30V
 <br> Voltage for microcontroller - 5V dc power source..
 
+<br> speeds and fees
+<br> standard two-flute, cutting way too slow and small chip rate
+<br> doing 2x the diameter of tool depth of cut
+<br> 508 mm/min or 200 inch / min
+<br> [speed/feed calculator](https://gdptooling.com/chipload-calc/)
+
+
+
+
 COM PORT = 5, BaudRate = 9600
 $0=250.000 (x, step/mm)
 $1=250.000 (y, step/mm)
