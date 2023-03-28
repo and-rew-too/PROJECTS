@@ -32,5 +32,24 @@ Can manually put low spindle power and then put M3 then immediately M5 to see wh
 3.3mm is the distance from the lens to 
 37?mm is the distance from where the bottom of the aluminum z-axis holding and the very top of the workpiece (can adjust the z axis upwards or downward depending on the height of the material to be ablated. 
 
+## GRBL material
+GOOD MATERIALS
+<br> wood, acrylic (vent plz) glass with paint, paver style bricks, delrin, polyimide
+<br> anodized aluminum
+
+
+AVOID MATERIALS
+carbon fiber (epoxy emits toxic gasses)
+PVC vinyls (emit chloride gas)
+ABS (burns)
+Polystyrene (burns)
+Polyethylene (burns)
+PVB polyvinyl butyrale (??)
+Berrylium containing alloys
+Phenolic Resins
+
+
+[trotec materials not suited](https://www.troteclaser.com/en-us/learn-support/faqs/unsuitable-materials-laser-processing)
+[materials to cut and not to cut](https://cpl.org/wp-content/uploads/NEVER-CUT-THESE-MATERIALS.pdf)
 
 
