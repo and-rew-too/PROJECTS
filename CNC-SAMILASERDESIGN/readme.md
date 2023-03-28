@@ -15,6 +15,7 @@ NOT ONLY was firmware updated... for some reason grbl 0.9 is 9600 baud rate, and
 
 
 Test Code Below
+$31=1
 M4 (do not use M3) only use M3 for focusing
 G1 X15 S100 F50
 
