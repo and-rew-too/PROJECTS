@@ -11,3 +11,4 @@ Always place the font beneath (font has connected t's, probably fix manually in 
 
 
 <br>[grbl l.1 arduino upload](https://www.youtube.com/watch?v=m998bYioHqs)
+NOT ONLY was firmware updated... for some reason grbl 0.9 is 9600 baud rate, and grbl 1.1 is 115200 baud rate, make sure to change in candle
