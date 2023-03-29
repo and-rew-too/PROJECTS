@@ -25,7 +25,7 @@ Always using two colors only which is , can add coloring afterward to the wood
 Always place the font beneath (font has connected t's, probably fix manually in paint)
 (save in paint as a 256 bitmap or as a png for less cleanup)
 <br>[font is Screener SC, looks great like music video quality](https://www.myfonts.com/products/sc-regular-screener-459137)
-
+<br>[qr code generator](https://www.qr-code-generator.com/)
 
 ## GRBL troubleshoot
 <br>[grbl 1.1 arduino upload](https://www.youtube.com/watch?v=m998bYioHqs)
