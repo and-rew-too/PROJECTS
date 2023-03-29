@@ -6,6 +6,8 @@ Go into python and run the script LASERpngtobmp.py and check the output file in 
 
 <br> Go into inkscape, open up the photo and do trace bitmap, with multicolor scan, this is most helpful for converting an image with multiple colors that often gets washed out and incorrect contours by using a simple python script. 
 
+<br> qr code, set to 12mm, and qr code default has 33 rows and line, so must have a resolution on my machine of 0.36mm or better
+
 
 IMAGING BLENDING AND CONTRAST IMPROVEMENT, USING PYTHON
 <br>[code on last post](https://stackoverflow.com/questions/57723968/blending-multiple-images-with-opencv)
