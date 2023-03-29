@@ -11,6 +11,11 @@ IMAGING BLENDING AND CONTRAST IMPROVEMENT, USING PYTHON
 <br>[code on last post](https://stackoverflow.com/questions/57723968/blending-multiple-images-with-opencv)
 
 
+Z HEIGHT LOG (
+had been using 
+and been using upper... third on the z-height, but now 
+<br> On 3/29 changed the z-height down by 6.3mm and changed the height of the correspondng platform as well, now is the lower third of the z-axis carriage. 
+
 ## Image Font Addition
 Using the same font every time
 Always using two colors only which is , can add coloring afterward to the wood
