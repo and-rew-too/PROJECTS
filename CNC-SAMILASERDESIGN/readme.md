@@ -6,6 +6,11 @@ Go into python and run the script LASERpngtobmp.py and check the output file in 
 
 <br> Go into inkscape, open up the photo and do trace bitmap, with multicolor scan, this is most helpful for converting an image with multiple colors that often gets washed out and incorrect contours by using a simple python script. 
 
+
+IMAGING BLENDING AND CONTRAST IMPROVEMENT, USING PYTHON
+<br>[code on last post](https://stackoverflow.com/questions/57723968/blending-multiple-images-with-opencv)
+
+
 ## Image Font Addition
 Using the same font every time
 Always using two colors only which is , can add coloring afterward to the wood
