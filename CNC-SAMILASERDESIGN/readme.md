@@ -65,3 +65,11 @@ Phenolic Resins
 [materials to cut and not to cut](https://cpl.org/wp-content/uploads/NEVER-CUT-THESE-MATERIALS.pdf)
 
 
+
+## LASER SAFETY materials and research
+
+<br>[thorlabs laser safety](https://www.thorlabs.com/thorproduct.cfm?partnumber=LPCM1)
+<br>[thorlabs laser safety msds](https://www.thorlabs.com/drawings/76ce41c02bf55590-DF2AD20C-AD50-241C-A73E7D0AD746BEC5/LPCM1-MSDS.pdf)
+<br>[safety real od5+](https://lasersafetyindustries.com/products/windows-acrylic-sheet-class-4-532nm)
+<br>[grainger supply](https://www.grainger.com/search/raw-materials/rubber/rubber-sheets-strips-rolls/hypalon-chemical-resistant-rubber?tv_optin=false&searchQuery=hypalon&searchBar=true&tier=Not+Applicable)
+
