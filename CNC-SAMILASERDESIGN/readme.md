@@ -5,7 +5,7 @@ Also using settings based off of fumey 3
 ; Feed rate  : 200 mm/min
 ; Beam range : 0 to 350
 ; Beam power : 0 to 100 %
-Passes, manually do 3+?
+Passes, manually do 3, the depth is is 0.8mm
 
 
 ## Image conversion to bitmap/png 
