@@ -1,3 +1,13 @@
+## QUICK SETTINGS NOTES
+Focal plane set, using a 1/2 inch wooden blocks below, then having a single square wooden block containing two 60lb toggle clamps
+Also using settings based off of fumey 3
+; Tool diam. : 0.2 mm
+; Feed rate  : 200 mm/min
+; Beam range : 0 to 350
+; Beam power : 0 to 100 %
+Passes, manually do 3+?
+
+
 ## Image conversion to bitmap/png 
 Options for converting into grayscale for easier processing in the image to lasergcode software.
 
