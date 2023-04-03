@@ -37,6 +37,10 @@ Always place the font beneath (font has connected t's, probably fix manually in 
 <br>[font is Screener SC, looks great like music video quality](https://www.myfonts.com/products/sc-regular-screener-459137)
 <br>[qr code generator](https://www.qr-code-generator.com/)
 
+
+<br>[font inspo](https://www.etsy.com/listing/1226376207/6-feet-beneath-the-moon-king-krule-music?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=king+krule&ref=sr_gallery-1-14&organic_search_click=1)
+<br>[another font for top of album holders](https://www.myfonts.com/products/regular-ff-market-367830), must ensure enlaging, duplicate and have the height of each letter at least 16 pixels == 10mm
+
 ## GRBL troubleshoot
 <br>[grbl 1.1 arduino upload](https://www.youtube.com/watch?v=m998bYioHqs)
 NOT ONLY was firmware updated... for some reason grbl 0.9 is 9600 baud rate, and grbl 1.1 is 115200 baud rate, make sure to change in candle
