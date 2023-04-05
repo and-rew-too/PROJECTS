@@ -87,3 +87,7 @@ Phenolic Resins
 <br>[safety real od5+](https://lasersafetyindustries.com/products/windows-acrylic-sheet-class-4-532nm)
 <br>[grainger supply](https://www.grainger.com/search/raw-materials/rubber/rubber-sheets-strips-rolls/hypalon-chemical-resistant-rubber?tv_optin=false&searchQuery=hypalon&searchBar=true&tier=Not+Applicable)
 
+
+## LASER FOCUSING
+<br>[laser focus 2](https://www.youtube.com/watch?v=d-MqDTYGNBo)
+<br>[laser focus 1](https://www.youtube.com/watch?v=2hXCuVSvuJo)
