@@ -1,16 +1,17 @@
 ## Introduction and Relevant Links
+Mobile disc sander that requires a standard 12V DC 5.5mm x 2.1mm connector. Entire sander fits within a small footprint of 12" x 12" x 9". Made to fit within the kallax bookshelf, and also features a quiet 24V DC motor. Comprised of a 6" sanding disc with XD-3420 30W Motor.
+<br> Important: Wear N95 mask to prevent exposure to wood dust. Will also include this as a safety label that's laser engraved into the wood. 
+
 <br> [Build Inspiration](https://www.youtube.com/watch?v=yLmfm-q4650)
 <br> [Correct-Vibration for LockNut](https://www.reddit.com/r/AskEngineers/comments/7gbzlz/machine_design_question_using_double_nuts_or/dqil2iw/)
 <br> [Correct-GT2PulleySizing](https://www.technobotsonline.com/timing-pulley-distance-between-centres-calculator.html)
-
 
 | Issue | Troubleshooting |
 | --- | --- |
 | `wobbling in disc` | Tighten  |
 | `sander won't turn on` | check the soldered connection to the female DC plug|
 | `sander won't turn on` | check the connection of the power cables to the SPDT switch |
-Mobile disc sander that requires a standard 12V DC 5.5mm x 2.1mm connector. Entire sander fits within a small footprint of 12" x 12" x 9". Made to fit within the kallax bookshelf, and also features a quiet 24V DC motor. Comprised of a 6" sanding disc with XD-3420 30W Motor.
-<br> Important: Wear N95 mask to prevent exposure to wood dust. Will also include this as a safety label that's laser engraved into the wood. 
+
 
 ## BOM
 See bom above, still incomplete
