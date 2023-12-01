@@ -11,6 +11,13 @@ A ESP module, to test ensure cats are being heated enough when in an outdoor she
 <br> example code for html 
 <br> Recommended ambient temperatures healthy for an outdoor cat to stay in. [link](https://gallant.com/blog/how-cold-is-too-cold-for-your-cat-to-stay-outside/)
 <br> Link to access thinkspeak, api [link](https://thingspeak.com/channels/2362352/api_keys)
+<br> example thinkspeak, also relevant code below [link](https://randomnerdtutorials.com/esp32-thingspeak-publish-arduino/)
+<br> in setup: ThingSpeak.begin(client); 
+<br> in loop: int x = ThingSpeak.writeField(ChannelID, 1, "sensor data", WriteAPIKey);
+<br> in above include channel number, APIkey as variables
+<br> unsigned long ChannelID = X;
+const char * WriteAPIKey = "XXXXXXXXXXXXXXXX";
+
 
 
 ## BOM
