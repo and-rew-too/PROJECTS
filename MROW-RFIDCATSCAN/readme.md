@@ -6,8 +6,7 @@
 <br> ESP32 Pinout Reference (link)[https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/]
 <br> Simple Limit switch reference (just use pin as output and have wire connected to NO)[https://www.thegeekpub.com/278078/arduino-limit-switch-tutorial/]
 
-<br>
-<br>
+
 ```shell
 define LIMIT_SWITCH_PIN 7
 void setup() {
