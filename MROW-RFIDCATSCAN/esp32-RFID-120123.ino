@@ -42,7 +42,7 @@ void setup()
 }
 void loop() 
 {
-  //digitalWrite(LIMIT_PIN, HIGH); //immediately, keeps 5v
+  digitalWrite(LIMIT_PIN, HIGH); //immediately, keeps 5v to avoid any premature activation, when this button press and reads GND is only in while loop
   // Look for new cards
   if ( ! mfrc522.PICC_IsNewCardPresent()) 
   {
