@@ -2,7 +2,7 @@ Occupied ESP32 Pins
 <br> RST attached to D0 (pin 2)
 <br> SS attached to D4 (pin 6)
 <br> Servo pwm switch attached to D3 (pin 5)
-<br> Limitswitch attached to D5 (pin 7)?? 
+<br> Limitswitch attached to D7 (pin 9) 
 
 
 
