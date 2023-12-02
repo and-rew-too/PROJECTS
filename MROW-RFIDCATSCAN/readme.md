@@ -3,6 +3,7 @@ Occupied ESP32 Pins
 <br> SS attached to D4 (pin 6)
 <br> Servo pwm switch attached to D3 (pin 5)
 <br> Limitswitch attached to D7 (pin 9) 
+WHEN difning variables for some reason sp32 hates having pin defined under number 9, yet all other pins can numbered in this way (i.e. 2,4,7,8). To avoid this behavior ONLY have pins numbered #define LIMIT_PIN D7, for pin 9.
 
 
 
