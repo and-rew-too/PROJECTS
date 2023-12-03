@@ -30,9 +30,11 @@ See bom above
 <br> 2. Solder the 600mAh battery to the buck converter, and using a small screwdriver rotate the small trim pot on the buck converter until the output voltage reaches 4.5V. 
 <br> 3. Connect the 4.5V to power rail and negative to ground rail on the breeadboard. Use dupont connector to put 4.5V to Vin pin, and the GNd to the GND pin.
 <br> 4. Hook up the DHT sensor accordingly, with the signal pin to the ESP D2 pin. Hook up the spliced JST, to D3 for the 'solar' ground led. 
-<br> 5. 
-<br> 5. Secure all individual components down to the wooden base using doublesided tape? or #4 wood screws...
-<br> 6. Finish the electronics box, and ensure antennae is stickng out, place in box in final location and check for the wifi strength and that it is uploading sensor data correctly. 
+<br> 5. Secure all individual components down to the wooden base using glue, and #4 wood screws on the buck converter.
+<br> 6.
+<br> 7. Finish the electronics box, and ensure antennae is stickng out, place in box in final location and check for the wifi strength and that it is uploading sensor data correctly.
+<br> 8. Setup the callmebot, get the api key and include that in the arduino code, verify that the notification is working.
+<br> 9.
 
 
 
