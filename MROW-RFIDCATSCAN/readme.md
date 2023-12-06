@@ -1,3 +1,6 @@
+SEE CODE- already wired correctly, just take the esp32c3 and add reupload the esp32-RFID_120123.ino file
+<br>
+
 Occupied ESP32 Pins
 <br> RST attached to D0 (pin 2)
 <br> SS attached to D4 (pin 6)
