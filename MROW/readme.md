@@ -5,6 +5,19 @@ A ESP module, to test ensure cats are being heated enough when in an outdoor she
 <br>
 
 
+<br>
+solenoid connected to D4
+dht connected to D2
+led control connected to D3
+this also written into the code .ino
+<br>
+
+
+
+
+
+
+
 ## Introduction and Relevant Links
 <br> step by step for the esp32 cam .ino uploading [link](https://www.youtube.com/watch?v=7-3piBHV1W0)
 <br> example code for intial web server display [link](https://lastminuteengineers.com/esp32-dht11-dht22-web-server-tutorial/)
