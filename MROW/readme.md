@@ -1,15 +1,16 @@
 
-A ESP module, to test ensure cats are being heated enough when in an outdoor shelter where nighttime temperatures can reach below 6 degrees C. 
-<br> Need to ensure ESP32 is running below 5.0V, usually around 4.5V and ensure either MQTT or ThingSpeak iot for datalogging, Callmebot for phone notification. Will send out an alert when the measured temperature within the box drops below a specified point, also will have days length of 
-<br> Some recommend that cats should stay above 45F, or 7.2C for outdoor cats. 
+An ESP module, to monitor and ensure ensure cats are being heated enough when in an outdoor shelter where nighttime temperatures can reach below 6 degrees C. 
+<br> Need to ensure ESP32 is running below 5.0V, usually around 4.5V and ensure either MQTT or ThingSpeak iot for datalogging, Callmebot for phone notification. Will send out an alert when the measured temperature within the box drops below a set point...
+<br> Some websites recommend that cats should stay above 45F, or 7.2C for outdoor cats. 
 <br>
 
 
 <br>
+Pinout guide
 solenoid connected to D4
 dht connected to D2
 led control connected to D3
-this also written into the code .ino
+this also commented in the code .ino
 <br>
 
 
@@ -32,24 +33,19 @@ this also written into the code .ino
 <br> unsigned long ChannelID = X;
 const char * WriteAPIKey = "XXXXXXXXXXXXXXXX";
 
-
-
 ## BOM
 See bom above
 
 
 ## 3DPrint and Assembly Guide
 1. Solder connectors onto the Xiao-ESP32-3C. Use a usb-c to connect to the Esp32 microcontroller. Also when uploading the code for the ESP32 can change it to fit your needs accordingly, all the should be variables accordingly, such as wifi information, the temperature threshold, thecallmebot api.
-<br> 2. Solder the 600mAh battery to the buck converter, and using a small screwdriver rotate the small trim pot on the buck converter until the output voltage reaches 4.5V. 
+<br> 2. Solder 600mAh battery to the buck converter, and using a small screwdriver rotate the small trim pot on the buck converter until the output voltage reaches 4.5V. 
 <br> 3. Connect the 4.5V to power rail and negative to ground rail on the breeadboard. Use dupont connector to put 4.5V to Vin pin, and the GNd to the GND pin.
 <br> 4. Hook up the DHT sensor accordingly, with the signal pin to the ESP D2 pin. Hook up the spliced JST, to D3 for the 'solar' ground led. 
 <br> 5. Secure all individual components down to the wooden base using glue, and #4 wood screws on the buck converter.
-<br> 6.
-<br> 7. Finish the electronics box, and ensure antennae is stickng out, place in box in final location and check for the wifi strength and that it is uploading sensor data correctly.
-<br> 8. Setup the callmebot, get the api key and include that in the arduino code, verify that the notification is working.
-<br> 9.
-
-
+<br> 6. Finish the electronics box, and ensure antennae is stickng out, place in box in final location and check for the wifi strength and that it is uploading sensor data correctly.
+<br> 7. Setup the callmebot, get the api key and include that in the arduino code, verify that the notification is working.
+<br> 8.
 
 ## CAD Files
 n/a
@@ -58,6 +54,6 @@ n/a
 n/a
 
 ## Results and Improvements
-Slow button response time when trying to turn on/off GPIO button from a phone wifi connection.
+Slow button responses, when trying to turn on/off GPIO button from a phone browser, and phone wifi connection.
 </br> 
 </br> 
