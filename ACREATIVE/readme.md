@@ -7,12 +7,7 @@
 <br> 3Dprint - stl
 <br> 3Dprint - magnets needed for the parts
 
-
-
-
-
 ## Improvements
-
 3Dprinted - magnetic holder
 
 Below, will also be including
@@ -32,8 +27,8 @@ Optimal arousal depends on two things, the type of work or divergent thinking be
 
 
 <br> Not only is arousal dependant on , but also reflects the type of emotional affect those arousing stimuli  . This can be achieved through previous emotional states before , or influenced directly by stimuli like music or aesthetics [source2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182210)
-Overstimulation provoked by the environmental complexity would lead to (1) a decrease in exploratory behaviors toward complexity, (2) an increase in exploratory behaviors toward simplicity or familiarity (e.g. focus on the classroom posters rather than the teacher lesson), and (3) an increase in creative thinking skills aimed to create simpler stimuli such as convergent thinking (e.g. asking the teacher for clarification or doodling). It is important to note that if overstimulation becomes more stressful, creative behaviors, because they depend on cognition, may be negatively affected (even if the motivation would remain high).
-Understimulation provoked by a dull environment would lead to (1) a decrease in exploratory behaviors toward simple stimuli, (2) an increase in exploratory behaviors toward complexity or novelty (e.g. focus on the teacher lesson, assuming it is a stimulating one, rather than the classroom posters), and (3) an increase in creative thinking skills aimed at creating complex stimuli such as divergent thinking (e.g. asking the teacher open questions, or finding a pun and giggling with classmate).
+> Overstimulation provoked by the environmental complexity would lead to (1) a decrease in exploratory behaviors toward complexity, (2) an increase in exploratory behaviors toward simplicity or familiarity (e.g. focus on the classroom posters rather than the teacher lesson), and (3) an increase in creative thinking skills aimed to create simpler stimuli such as convergent thinking (e.g. asking the teacher for clarification or doodling). It is important to note that if overstimulation becomes more stressful, creative behaviors, because they depend on cognition, may be negatively affected (even if the motivation would remain high).
+> Understimulation provoked by a dull environment would lead to (1) a decrease in exploratory behaviors toward simple stimuli, (2) an increase in exploratory behaviors toward complexity or novelty (e.g. focus on the teacher lesson, assuming it is a stimulating one, rather than the classroom posters), and (3) an increase in creative thinking skills aimed at creating complex stimuli such as divergent thinking (e.g. asking the teacher open questions, or finding a pun and giggling with classmate).
 
 
 
