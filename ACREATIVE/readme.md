@@ -17,12 +17,13 @@ Need to also discuss, how to measure rising cortisol levels, or changed microgli
 
 # Environments
 ## Theory
-There is optimal arousal theories
-Optimal arousal depends on two things, the type of work or divergent thinking being undertaken, and also by the type of historical arou
+There is optimal arousal theories, regarding the type of arousal we seek 
+This is linked later, to flow, which in turn is also linked to promoting "selfish" mastery and creative endeavours. 
+Optimal arousal depends on two things, the type of work or divergent thinking being undertaken, and also by the type of historical arousal that a personal has good experiences with before. 
 
-<br> My personal pet theory, is that humans have a few innate stimuli preferences (similar to innate fears), but humans can also be encultured or create associations to specific sounds or environments with positive creativity. Classic example would be low coffee shop hum of mainly other people and chatter noises. 
-<br> Also stimulants tend to enahnce task positive and 'laser' like attention while . going back to the dmn versus positive task attentional networks in the brain. Mixed results on how meditation, and which type of meditation, affects creativity. 
-<br> <br> Somehow, nature has less threatening stimuli and generally improves mood, attention, memory, and overall divergent thinking scores, albeit a low affect. Is there something to do with  the low threat sounds of wind or birdsong? Something with the low threat olfactory senses of monoterepenes etc? [source1](idkyet)
+<br> My personal pet theory, is that humans have a select amount of innate stimuli preferences (similar to innate fears), but in general humans can be encultured or create associations to specific sounds or environments with positive creativity. Classic example would be low coffee shop hum of mainly other people and chatter noises. 
+<br> Also stimulants tend to enahnce task positive and 'laser' like attention while I bevlie . Things like modafonil or caffeine for productivity boosts but few on health and cognition changes in short-term and long-term scales. Personally I belive (on the flip side the balmer's curve for moderate alcohol use is real) Going back to the dmn versus positive task attentional networks in the brain. Also, relating to behavioral ways to change attention, there's very mixed results on how meditation affects creativity, so I personally don't meditate at all, find my mind becomes too... stable almost not enough free flowing ideas jumping in and connecting. 
+<br> <br> I believe optimal arousal isn't just to a few stimuli, but optimal arousal even increases when multiple senses ... For example nature is an ambience but it's not just visual it's rarely replicated. I mean if it was you'd find artists coming up with breakthroughs in the Rainforest Cafe... lacking something else there, like the earthy smell or the natural lighting filter through a canopy. Somehow, nature has less threatening stimuli, an abundance of various stimuli, and studies show how Nature generally improves mood, attention, memory, and overall divergent thinking scores, albeit a low affect. Is there something to do with  the low threat sounds of wind or birdsong? Something with the low threat olfactory senses of monoterepenes etc? [source1](idkyet)
 ## Welcome to My Website
 
 
