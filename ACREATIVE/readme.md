@@ -28,13 +28,19 @@ This is linked later, to flow, which itself is also linked to "selfish" mastery 
 
 
 
-## BLACK not white background
+## Background Priming Creatiivity 
+
+### Natural World
+STUDY HERE... primed later to , and before either primed with a urban setting, nature setting, and ten .... finally the control video and shockingly some amount of stimulus especially nature stimulus perfrmed the best in a Alternate tasks Test to grade divergent thinking and creativity. 
+
 
 ### Red light general, also
+Studies here.. forthcoming
 
 ### OPTIMUM TEMP, Cold a little more Ptroductive
+There is a optimum for sure, and actually found any temps cold, or temps below this optimum for creativity we acutally become better attentional and better engaged in task... Begs the question, what is changing in the biological sense in terms of neurons firing or gene expression?? And what happens if temps rise above this optimum what thinking processes end up changing in that direction? 
 
-### Also mentioned glancingly high ceilings, or 
+### Mentioned, High Ceilings
 This is the so called Cathedral effect... no fMRI or more substantial evidence
 
 
@@ -42,14 +48,52 @@ This is the so called Cathedral effect... no fMRI or more substantial evidence
 <br> Details regarding this board, its dimensions 48" x 36", four glass holes to mount, not too thick, mounted using metal mounts and ?? screws, and magnetic, easy to clean due to the glass surface... very reflective wahhh the downside it is too reflective. 
 <br> [Link to HomeDepot Glass Board](https://www.homedepot.com/p/U-Brands-47-in-x-35-in-Black-Surface-Frameless-Glass-Dry-Erase-Board-171U00-01/305167855)
 <br> [Link to Liquid white chalk]()
+### Black Space Aesthetic
+Personally believe that even the way information's presented, is of optimal importance. Highly visual relation to creative tasks as in the occipital cortex lights up during fMRI of improvisational 'savants' or 'piano jazz players',
+<br> Just as we internally think visually, we also are highly susceptible to the way the visual text or images are oriented, I feel that that serve as a top-down visual cue to our cortical areas to reorient our attention...
+<br> As an example, I find myself, from reduced eye strain, or from the inversion from the typical white background black-focused print of books and online articles. That the inversion significantly helps me with focusing on spaces inbetween words. It's like it forces my attentional and thinking patterns to shift and expand that search light. 
 
-
-
-### Black spaces inbetween standard
-Personally believe the way information is even presented, is like a top-down visual cue to reorient our attention and helps with creativity...
-<br> Find myself, either from reduced eye strain, or due to the inversion from the typical white background black-focused print of books and online articles, that the inversion personally helps me with focusing on the spaces inbetween words. It's like it forces my attentional and thinking patterns to shift. 
 <br> Find analagous forms in other cultures, for example in carved stone calligraphy in Taiwanese culture, find that the typical red ink on carved stone is like a stamp calligraphy, it many artistic implications. Within stamp calligraphy the two main forms are yin and yang, with the the yang technique has the words inhabiting the 'positive' and this is achieved through a emboss of the characters carved into stone. And the yin technique has the words inhabiting the 'negative' on the printed page so the deboss of the character is carved into the stone. And so the same effect as having a black background in print is also achieved. The philosophy on when and why calligraphists choose yin or yang print, is lost on me... I don't know enough yet 
 <br> A last note as well, anecdotally physics professors have , it's chalk or die for them, whether that is stubbornness linked to traditions and mentors, or a deeper underlying preference for expansive attention to solve creatively, who's to say? 
 
+
+
+
+## DMN Examples
+### DMN Felt when left Alone
+Will either ruminate heavily or instead be "lost" in daydreaming. 
+Rumination can be dangerous and can quickly fall into negative self talk and start spiraling. 
+<br> Or judge the inside to be much more fulfilling and interesting than the outside world, and actively create 
+Anecodtally, but also this is what the major brain structures for the DMN correspond to, which is self referential thinking, social relation thinking, future planning, and mind wandering... 
+
+### DMN dysfunction
+DMN dysfunciton, typical , dysfunctions found specifically in bipolar disorder, more genetic link and reproductible changes across people versus other DSM/RDoC diagnoses, and through bipolar see small but statitically significant increases in creativity/divergent thinking. 
+
+### DMN Salience Network
+Going above above, think again about the expansive flashlight version of attention where in a positive affect and in a non threatening situation you are free to let mind wander and generate more complex stimuli... and the ideas of gating attention have a neurological basis, particularly linked to salience network which not only manages , but also . This ties into a later, more recent larger neuroscience , where the catechecolamines (in addition other gaba or ach nicotinic etc neurotransmitters) act fundamentally as a weight/cue to the degree ,and it's through , it's not that the emotions are fundamentally embodied in specific . 
+
+<br> Interestingly as well, dACC it's long been considered to be the source, if you will, of sadness behavior and through natural lesions from people who had undergone brain strokes versios damage etc, it was unexpected. It was thought that if people with dACC impaired then they shouldn't cry at all or feel any sadness, but instead what happened. Instead more interestingly, they became unable to control the valence, the severity of their response to ,... find paper again here.... This lends even more evidence towards the theory that Salience Network is a modulator and gater of , before sending it to the higher level cortical areas that will encode any learning and rewards/avoidance behavior to prepare for future responses this ... and that similar emotions then get grouped together to get activated together as a form of learning a good heuristic to process and respond better for overall increased fitness.  "say group all fearful responses because we can then react faster to avoid these stimuli" "say group all endearing responses because that way we know that the object of endearment needs to be comforted and cared for"
+<br> And this, by gating the emotions necessary, we also gate a specific emotional state to prime for anything creative... 
+<br> Very interestingly, the more creative thinking we engage in the more of a positive affect we feel, so creativity in itself can be , and creativity seems to have (although with insight like PIIV there's the negative and positive affect working together)
+
+### DMN trained, but
+I tried NYT Connections, really found creative solutions in the groupings in this word association game, and I was feeling it train creatiivty forsure but didn't feel something deeper I guess, the puzzle was solved sure but not satisfying or self gratifying... unlike other times I had felt creative... 
+<br> needs to be a purpose, need insight as creativity ultimatly goal is to be involved in real-world problems actually. 
+
+
+### Anecdotes - artistry Creativitiy
+Australian study, across multiple jobs, and also wide rnage of ages, asking where their insights happened most often, ranked in order it would go from at night/in bed > at work > during transport > in nature > etc etc 
+<br> Most often, very little while exercising or engaging in task-positive, always during times of rumination, or times during which DMN functional connectivity is changing (LIKE right before falling asleep lol) 
+<br> That marshy swap, liminal space between slumber and wakefulness. 
+
+
+Artistry, from being left alone and left to ruminate...
+
+Neils Bohr came to him in a dream!! bro!! 
+
+Great, thought somehow, actually within
+
+Anecdote also, randomly, dreaming being to dream in the lanauge, and then create novel sentences easily just needed to immerse self so fully in a language until it like clicks subconsciouslly ... this was from the youtube video comments.
+Anecdote also, after being a geek for a few months parroting languages, will then move to really absorb it from Dash, and then in turn had a dream where you're dreaming the language, and shortly thereafter find new novel ways to "liberate" money and trading opportunities. 
 
 
