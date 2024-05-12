@@ -19,7 +19,7 @@ Bedding is used both to start a bin and also added later for routine maintenance
 Very small amounts of pebbles or sand, like fiber for 'em. 
 
 ## 'Greens'
-
+Any vegetable peels!
 
 
 
@@ -27,10 +27,12 @@ Very small amounts of pebbles or sand, like fiber for 'em.
 ## Watering
 How cna you tell if the box is too dry for the worms? 
 <br> and if it is too dry, can add spritzes of water,a lthough based on comments with STL most three d printed parts end up as poor ventilation,  and trapping to much moisture is a more commonly faced problem. 
-<br> How cna you tell if the box is too wet for the womrs?
-<br> and To remedy, can jst 
+<br> How can you tell if the box is too wet for the womrs?
 ## Temperature
-Optimum temperature range for red wigglers is, 
+Optimum temperature range for red wigglers is between 55F and 85F, will die if exposed too long to temps above 95F during summers.  
+
+## Humidity
+<br> The ideal humidity is like a lightly wrung out sponge when you pick it up. 
 
 # Foods
 ## Foods to avoid
