@@ -21,7 +21,7 @@ how to spot?
 ## (Hemiptera or Aphidiae) Plant Draining Devastations
 Aphids, those soft-bodied sap-suckers, can be a real thorn in the side of any botanist cultivating a thriving indoor haven. 
 Here's a closer look at these green (or sometimes black, brown, yellow, or red) menaces:
-<br> Strong Water Spray: A forceful blast of water can dislodge aphids from your plants. While effective for light infestations, 
+<br> <b>Strong Water Spray<b>: A forceful blast of water can dislodge aphids from your plants. While effective for light infestations, 
 repeat applications might be needed, and it's not suitable for delicate plants.
 <br>  Insecticidal Soap Sprays: Similar to whiteflies, insecticidal soap sprays (fatty acid salts) 
 can be effective against aphids. Coat the undersides of leaves thoroughly, paying attention to areas where aphids congregate.
@@ -33,7 +33,7 @@ affected leaves or stems.  This helps reduce the aphid population and removes po
 Regularly monitor your plants for signs of aphids, especially new growth.
 <br> Identification:  These tiny insects, typically 1/8 inch long, congregate on the undersides of leaves, stems, and new growth.  
 Look for their pear-shaped bodies and grouping patterns, most likely seen on stems than other pests.  
-Their presence might also be revealed by sticky honeydew secretions on leaves (this signals the plant immune response), 
+Their presence might also be revealed by sticky honeydew secretions on leaves(this signals the plant immune response, 
 or the presence of ants.
 <br> Botanical Blood Feast:  Aphids pierce plant tissues with their needle-like mouthparts and suck out sap. This weakens the plant and hinders its growth.  
 The honeydew they excrete can also attract other pests like sooty mold, further compromising plant health.
@@ -70,7 +70,7 @@ Allow the top inch of soil to dry out between waterings.
 This disrupts the gnat's life cycle and as it becomes less optimal for egg-laying.
 <br>
 <br> Review have I tried this? somewhat, overwatering definitely is the cause, but in online you can also buy yellow sticky traps, 
-<br> and also to water much less frequently and also use very <b>small amount 3% H2O2<b/> weekly, this serves a dual purpose, as it kills
+<br> and also to water much less frequently and also use very <b>small amount 3% H2O2<b> weekly, this serves a dual purpose, as it kills
 <br> any early stage mites, while also loosening up soil and both adding aeration but also providing pores for the water to 
 <br> enter and leave quicker through evaporation, loosens up clay like soil. 
 <br> (https://ohioline.osu.edu/factsheet/ENT-65)[ohio online knowledge]
@@ -78,5 +78,5 @@ This disrupts the gnat's life cycle and as it becomes less optimal for egg-layin
 ## Slugs, Isopods, 
 <br> to add to this section in the future... 
 <br>
-<br> MY PERSONAL RECOMMENDATION is inside, use the amazon uv vacuum traps, , watering with hydrogen peroxide, and natural predators (aka volunteer a spider from outside and bring in to keep pest levels down)
+<br> MY PERSONAL RECOMMENDATION is inside, use the amazon uv vacuum traps, yellow sticky traps, watering with hydrogen peroxide, and natural predators (aka volunteer a spider from outside and bring in to keep pest levels down)
 <br> PERSONAL RECOMMENDATION, also the cheapest by far, is the 12% 
