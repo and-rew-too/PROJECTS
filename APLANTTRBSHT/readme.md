@@ -21,9 +21,9 @@ how to spot?
 ## (Hemiptera or Aphidiae) Plant Draining Devastations
 Aphids, those soft-bodied sap-suckers, can be a real thorn in the side of any botanist cultivating a thriving indoor haven. 
 Here's a closer look at these green (or sometimes black, brown, yellow, or red) menaces:
-<br> **Strong Water Spray**: A **forceful blast of water** can dislodge aphids from your plants. While effective for light infestations, 
+<br> **Strong Water Spray**: A forceful blast of water can dislodge aphids from your plants. While effective for light infestations, 
 repeat applications might be needed, and it's not suitable for delicate plants.
-<br>  Insecticidal Soap Sprays: Similar to whiteflies, insecticidal soap sprays (fatty acid salts) 
+&emsp; <br>  Insecticidal Soap Sprays: Similar to whiteflies, insecticidal soap sprays (fatty acid salts) 
 can be effective against aphids. Coat the undersides of leaves thoroughly, paying attention to areas where aphids congregate.
 <br> Neem Oil Spray: Neem oil, a botanical insecticide, can disrupt aphid feeding and act as a repellent. Be sure to follow dilution instructions and avoid using in hot weather as it can damage leaves.
 <br> Beneficial Insects: Introduce natural predators like ladybugs, lacewings, or parasitic wasps to your indoor garden if possible. 
